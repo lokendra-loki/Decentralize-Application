@@ -9,3 +9,8 @@ npx hardhat
 
 //install test library
 npm install --save-dev @nomiclabs/hardhat-ethers ethers @nomiclabs/hardhat-waffle ethereum-waffle chai
+
+//compiling contracts
+cd 
+npx hardhat compile
+
