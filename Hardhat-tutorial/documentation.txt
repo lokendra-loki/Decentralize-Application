@@ -1,0 +1,11 @@
+//we need package.json file
+npm init -y
+
+//Install hardhat
+npm i hardhat
+
+//to create project
+npx hardhat
+
+//install test library
+npm install --save-dev @nomiclabs/hardhat-ethers ethers @nomiclabs/hardhat-waffle ethereum-waffle chai
