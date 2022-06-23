@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "C:\\Users\\loken\\Desktop\\DecentralizeApplications\\Hardhat-tutorial\\contracts\\Token.sol": {
-      "lastModificationDate": 1655944858427,
-      "contentHash": "6aa11dd906cf7f0a2b0b55f63c256e3e",
+      "lastModificationDate": 1655945402291,
+      "contentHash": "1a233819085f2417d0091f0b1673ea05",
       "sourceName": "contracts/Token.sol",
       "solcConfig": {
         "version": "0.8.9",

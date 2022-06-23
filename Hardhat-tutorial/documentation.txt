@@ -14,3 +14,8 @@ npm install --save-dev @nomiclabs/hardhat-ethers ethers @nomiclabs/hardhat-waffl
 cd 
 npx hardhat compile
 
+
+//testing
+test.js
+npx hardhat test
+
