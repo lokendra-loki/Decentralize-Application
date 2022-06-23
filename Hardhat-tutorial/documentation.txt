@@ -13,9 +13,18 @@ npm install --save-dev @nomiclabs/hardhat-ethers ethers @nomiclabs/hardhat-waffl
 //compiling contracts
 cd 
 npx hardhat compile
+npx hardhat test
 
 
 //testing
 test.js
 npx hardhat test
+
+//Debugging
+npm i hardhat-console
+import "../node_modules/hardhat/console.sol"; 
+//t let us use js code in our solidity file so we can debug easily
+npx hardhat run  scripts/deploy.js  
+
+
 
